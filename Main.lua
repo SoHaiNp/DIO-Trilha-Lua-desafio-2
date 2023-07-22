@@ -1,5 +1,5 @@
 local Utils = require("util.Utils")
-local Scenes = require("scenes.Header")
+local Menu = require("scenes.Menu")
 
 Utils.enableUtf8()
-Scenes.header()
+Menu.menuScreen()

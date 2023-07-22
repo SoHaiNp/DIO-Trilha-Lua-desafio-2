@@ -1,0 +1,5 @@
+local Monster = {}
+
+
+
+return Monster
